@@ -13,5 +13,6 @@ list
 input parameters:  
 1. about machine
   * cylinder diameter
-  * swing bar length  
+  * swing bar length
+
 2. motion time
