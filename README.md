@@ -12,5 +12,5 @@ list
 
 input parameters:  
 1. about machine
-  *cylinder diameter
-  *swing bar length
+  * cylinder diameter
+  * swing bar length
