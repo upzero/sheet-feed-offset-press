@@ -11,7 +11,7 @@ list
 3. cam profile
 
 input parameters:  
-1. about machine
+1.about machine
   * cylinder diameter
   * swing bar length  
 
