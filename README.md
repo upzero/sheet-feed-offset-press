@@ -15,4 +15,4 @@ input parameters:
   * cylinder diameter
   * swing bar length  
 
-.motion time
+2. motion time
