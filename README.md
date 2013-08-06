@@ -4,13 +4,12 @@ sheet-feed-machine
 program with matlab for compute cam using in sheet-feed machine
 
 ##main matlab file
-list
-
+###function list  
 1. cam curve 
 2. four bar motion 
 3. cam profile
 
-input parameters:  
+###input parameters:  
 1.about machine
   * cylinder diameter
   * swing bar length  
